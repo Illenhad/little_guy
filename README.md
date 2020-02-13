@@ -1,6 +1,4 @@
 # Little Guy In His Village
-13 février 2020
-
 ## VUE D'ENSEMBLE
 Dans le cadre de la formation en interne de ses salariés, CJP souhaite la mise en place d’une solution informatique de type “Jeux Vidéo” représentant la simulation d’un village et de ses habitants. L’acteur principale de celui-ci correspondra au personnage du nom de “Little Guy”.
 Le rendu est attendu pour le 01 avril 2020.
